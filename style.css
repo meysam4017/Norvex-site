@@ -94,7 +94,7 @@ a{text-decoration:none;color:inherit}
   align-items:center;
   background:
     linear-gradient(var(--hero-overlay), var(--hero-overlay)),
-    ('images/style/Def.png') center/cover no-repeat;
+    url('images/style/Def.png') center/cover no-repeat;
   color:#fff;
 }
 .hero.small{
