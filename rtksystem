@@ -1,0 +1,117 @@
+<section class="hero small">
+  <div class="container">
+    <h1>RTK GNSS Systems for High-Precision Positioning</h1>
+    <p>
+      Norvex RTK systems deliver centimeter-level positioning accuracy using real-time GNSS corrections. Designed for industrial and mission-critical applications, our RTK solutions integrate base stations, rover receivers, and correction distribution software into a unified high-performance system.
+    </p>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container">
+
+    <h2>What is RTK Positioning?</h2>
+    <p>
+      Real-Time Kinematic (RTK) is a GNSS-based positioning technique that enhances accuracy from meter-level to centimeter-level by using real-time correction data. RTK systems rely on a reference station (CORS), a rover receiver, and a communication link that transmits correction data.
+    </p>
+
+  </div>
+</section>
+
+
+<section class="section light">
+  <div class="container">
+
+    <h2>RTK System Components</h2>
+
+    <div class="grid-3">
+
+      <!-- CORS -->
+      <div class="card">
+        <h3>CORS Station</h3>
+        <p>
+          Continuously Operating Reference Stations (CORS) provide high-precision correction data. They serve as the backbone of RTK networks, enabling consistent and reliable positioning across large areas.
+        </p>
+        <a href="/products/rtk-system/cors-station" class="btn-link">Learn More →</a>
+      </div>
+
+      <!-- Rover -->
+      <div class="card">
+        <h3>RTK Rover</h3>
+        <p>
+          RTK rover receivers operate in the field, receiving correction data and delivering centimeter-level accuracy. Available in standard and vision-enabled configurations for advanced applications.
+        </p>
+        <a href="/products/rtk-system/rtk-rover" class="btn-link">Learn More →</a>
+      </div>
+
+      <!-- Software -->
+      <div class="card">
+        <h3>Correction Software</h3>
+        <p>
+          Software platforms distribute RTK corrections via NTRIP or other communication methods, ensuring reliable data delivery and system scalability.
+        </p>
+        <a href="/products/rtk-system/correction-software" class="btn-link">Learn More →</a>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container">
+
+    <h2>Key Advantages</h2>
+
+    <ul class="features">
+      <li>Centimeter-level positioning accuracy</li>
+      <li>Real-time correction delivery</li>
+      <li>Scalable from single base to nationwide networks</li>
+      <li>Reliable performance in industrial environments</li>
+      <li>Integration with GNSS + INS systems</li>
+    </ul>
+
+  </div>
+</section>
+
+
+<section class="section light">
+  <div class="container">
+
+    <h2>Applications</h2>
+
+    <div class="grid-3">
+      <div class="card">
+        <h3>Surveying & Mapping</h3>
+        <p>High-precision land surveying and geospatial data collection.</p>
+      </div>
+
+      <div class="card">
+        <h3>Mining & Construction</h3>
+        <p>Machine guidance, site positioning, and automation.</p>
+      </div>
+
+      <div class="card">
+        <h3>Autonomous Systems</h3>
+        <p>Navigation for drones, robots, and autonomous vehicles.</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="section cta">
+  <div class="container">
+
+    <h2>Request More Information</h2>
+    <p>
+      Contact Norvex to learn more about our RTK GNSS systems and how they can be integrated into your operations.
+    </p>
+
+    <a href="/contact" class="btn-primary">Contact Us</a>
+
+  </div>
+</section>
