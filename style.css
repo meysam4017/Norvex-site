@@ -98,7 +98,7 @@ a{text-decoration:none;color:inherit}
   align-items:center;
   background:
     linear-gradient(var(--hero-overlay), var(--hero-overlay)),
-    url('images/style/Defopt.png') center/cover no-repeat;
+    url('/images/style/Defopt.png') center/cover no-repeat;
   color:#fff;
 }
 .hero.small{
