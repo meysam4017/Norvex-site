@@ -1,1 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CPPC01X9D1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-CPPC01X9D1');
+  </script>
 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Norvex | High-Precision GNSS & PNT Solutions</title>
+  <meta name="description" content="Norvex provides high-precision GNSS positioning, navigation, and timing solutions for commercial and mission-critical applications across Canada.">
+
+  <link rel="canonical" href="https://norvexpnt.com/">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container nav">
+      <a href="/" class="brand">
+        <img src="/images/Logo1.png" alt="Norvex">
+      </a>
+
+      <nav class="nav-links">
+        <a class="active" href="/">Home</a>
+        <a href="/products/">Products</a>
+        <a href="/solutions/">Solutions</a>
+        <a href="/services/">Services</a>
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact / RFQ</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <div class="hero-content">
+        <span class="eyebrow">Canada-Based GNSS & PNT Engineering</span>
+        <h1>High-Precision Positioning, Navigation, and Timing for Demanding Environments</h1>
+        <p>Norvex develops and delivers RTK GNSS receivers, heading and north finding systems, precise timing solutions, correction services, and resilient PNT technologies built for real-world reliability in remote areas, harsh climates, and mission-critical operations.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="/contact/">Request a Quote</a>
+          <a class="btn btn-secondary" href="/products/">Explore Products</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Why Norvex</h2>
+      <p class="section-subtitle">A practical, engineering-focused approach to GNSS and PNT systems for customers who require performance, resilience, and responsive technical support.</p>
+
+      <div class="grid-3">
+        <article class="card">
+          <h3>Engineering-Driven Solutions</h3>
+          <p>Products are designed and developed by a specialized technical team with deep GNSS, embedded systems, and timing expertise.</p>
+        </article>
+        <article class="card">
+          <h3>Reliable in Harsh Conditions</h3>
+          <p>Built for cold climates, remote operations, and challenging RF environments where reliability matters most.</p>
+        </article>
+        <article class="card">
+          <h3>Integrated PNT Approach</h3>
+          <p>Unified positioning, navigation, and timing solutions improve system performance and operational confidence.</p>
+        </article>
+        <article class="card">
+          <h3>Flexible &amp; Customizable</h3>
+          <p>Hardware and software can be adapted to fit project-specific requirements rather than forcing rigid off-the-shelf configurations.</p>
+        </article>
+        <article class="card">
+          <h3>Responsive Technical Support</h3>
+          <p>Fast access to engineering support, remote diagnostics, and application-level troubleshooting.</p>
+        </article>
+        <article class="card">
+          <h3>Field-Proven Performance</h3>
+          <p>Solutions shaped by real deployment needs in surveying, infrastructure, mining, agriculture, transportation, and public safety.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section band">
+    <div class="container">
+      <h2 class="section-title">Core Product Areas</h2>
+      <p class="section-subtitle">Built to support high-accuracy positioning, robust orientation, critical timing, and resilient PNT performance.</p>
+      <div class="grid-3">
+        <a href="/rtk-systems/" class="card link-card">
+          <h3>RTK SYSTEMS</h3>
+          <p>High-precision RTK GNSS systems for surveying, construction, and industrial field applications.</p>
+        </a>
+        <article class="card">
+          <h3>Heading &amp; North Finding</h3>
+          <p>Dual-antenna solutions for accurate heading and orientation in dynamic environments.</p>
+        </article>
+        <article class="card">
+          <h3>Timing Systems</h3>
+          <p>GNSS-based time servers and synchronization systems supporting PPS, NTP, and PTP.</p>
+        </article>
+        <article class="card">
+          <h3>PNT Solutions</h3>
+          <p>Integrated GNSS, sensor, and algorithm-based systems for resilient performance in difficult conditions.</p>
+        </article>
+        <article class="card">
+          <h3>Sensors &amp; Modules</h3>
+          <p>IMU, inertial sensors, and positioning modules for OEM and embedded integration.</p>
+        </article>
+        <article class="card">
+          <h3>Correction Services</h3>
+          <p>RTK, DGPS, and PPP-RTK services to support high-accuracy operations across diverse applications.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section industries-section">
+    <div class="container">
+      <h2 class="section-title">Industries We Serve</h2>
+      <p class="section-subtitle">
+        Solutions engineered for real-world deployment across commercial and mission-critical environments.
+      </p>
+
+      <div class="industries-grid">
+        <article class="industry-card">
+          <img src="/images/industries/survey_com.jpg" alt="Land Surveying">
+          <div class="industry-content">
+            <h3>Land Surveying</h3>
+            <p>Reliable, field-ready positioning for high-accuracy geospatial workflows.</p>
+          </div>
+        </article>
+
+        <article class="industry-card">
+          <img src="/images/industries/cons_com.jpg" alt="Construction and Infrastructure">
+          <div class="industry-content">
+            <h3>Construction &amp; Infrastructure</h3>
+            <p>Positioning and timing support for site operations, machine guidance, and infrastructure development.</p>
+          </div>
+        </article>
+
+        <article class="industry-card">
+          <img src="/images/industries/mining_com.jpg" alt="Mining">
+          <div class="industry-content">
+            <h3>Mining</h3>
+            <p>Robust GNSS performance in remote and rugged environments with demanding operational requirements.</p>
+          </div>
+        </article>
+
+        <article class="industry-card">
+          <img src="/images/industries/agri_com.jpg" alt="Precision Agriculture">
+          <div class="industry-content">
+            <h3>Precision Agriculture</h3>
+            <p>Accurate guidance and repeatable positioning to improve field efficiency and automated operations.</p>
+          </div>
+        </article>
+
+        <article class="industry-card">
+          <img src="/images/industries/trans_com.jpg" alt="Transportation">
+          <div class="industry-content">
+            <h3>Transportation</h3>
+            <p>Reliable navigation and timing for fleet, mobility, robotics, and logistics applications.</p>
+          </div>
+        </article>
+
+        <article class="industry-card">
+          <img src="/images/industries/def.png" alt="CyberGNSS">
+          <div class="industry-content">
+            <h3>CyberGNSS</h3>
+            <p>Resilient positioning, navigation, and timing in GNSS-challenged and contested environments.</p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container footer-wrap">
+      <div>© Norvex. High-precision GNSS &amp; PNT solutions.</div>
+      <div class="footer-links">
+        <a href="/products/">Products</a>
+        <a href="/solutions/">Solutions</a>
+        <a href="/industries/">Industries</a>
+        <a href="/services/">Services</a>
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
