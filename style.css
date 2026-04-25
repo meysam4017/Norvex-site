@@ -25,6 +25,16 @@ body{
 }
 img{max-width:100%;display:block}
 a{text-decoration:none;color:inherit}
+
+p a{
+  color:var(--brand);
+  font-weight:700;
+}
+p a:hover{
+  color:var(--brand-dark);
+  text-decoration:underline;
+}
+
 .container{
   width:min(var(--max), calc(100% - 40px));
   margin:0 auto;
@@ -45,12 +55,6 @@ a{text-decoration:none;color:inherit}
   justify-content:space-between;
   min-height:72px;
   gap:20px;
-}
-.brand{
-  color:var(--white);
-  font-size:1.35rem;
-  font-weight:700;
-  letter-spacing:.3px;
 }
 .brand img{
   height:45px;
@@ -187,6 +191,22 @@ a{text-decoration:none;color:inherit}
   margin:0;
   color:var(--muted);
 }
+
+/* Clickable Cards */
+.link-card{
+  display:block;
+  cursor:pointer;
+  transition:transform .22s ease, box-shadow .22s ease, border-color .22s ease;
+}
+.link-card:hover{
+  transform:translateY(-4px);
+  box-shadow:0 16px 32px rgba(20,30,40,.14);
+  border-color:#c8d3de;
+}
+.band .link-card:hover{
+  border-color:rgba(255,255,255,.18);
+}
+
 .list{
   margin:12px 0 0;
   padding-left:18px;
@@ -251,7 +271,6 @@ a{text-decoration:none;color:inherit}
   color:var(--muted);
 }
 
-/* clickable feature cards */
 .feature-body.link-card{
   display:block;
   transition:transform .2s ease, box-shadow .2s ease, border-color .2s ease;
@@ -378,16 +397,18 @@ textarea{
   gap:18px;
 }
 .industry-card{
+  display:block;
   background:#ffffff;
   border:1px solid var(--line);
   border-radius:14px;
   overflow:hidden;
   box-shadow:var(--shadow);
-  transition:transform .25s ease, box-shadow .25s ease;
+  transition:transform .25s ease, box-shadow .25s ease, border-color .25s ease;
 }
 .industry-card:hover{
   transform:translateY(-4px);
   box-shadow:0 16px 28px rgba(20,30,40,.12);
+  border-color:#c8d3de;
 }
 .industry-card img{
   width:100%;
