@@ -107,7 +107,7 @@ p a:hover{
   color:#fff;
   background-image:
     linear-gradient(var(--hero-overlay), var(--hero-overlay)),
-    url('/images/style/Defopt.png');
+    url('/images/industries//mining_com.jpg');
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
